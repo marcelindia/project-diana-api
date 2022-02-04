@@ -1,0 +1,70 @@
+[
+  {
+    "customer id": "kGvSMCRTID1JhyzVFTNq",
+    "cart": [
+      {
+        "productID": 76543,
+        "quantity": 2
+      },
+      {
+        "productID": 12233,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 51.97,
+    "delivery date": "2/3/2022"
+  },
+  {
+    "customer id": "kBH8G87BNbELAATd8yjg",
+    "cart": [
+      {
+        "productID": 98764,
+        "quantity": 1
+      },
+      {
+        "productID": 12233,
+        "quantity": 2
+      },
+      {
+        "productID": 98889,
+        "quantity": 2
+      },
+      {
+        "productID": 32110,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 173.94,
+    "delivery date": "3/18/2022"
+  },
+  {
+    "customer id": "hInTYdm1W5Vzy4ysK7Kg",
+    "cart": [
+      {
+        "productID": 32110,
+        "quantity": 2
+      },
+      {
+        "productID": 76543,
+        "quantity": 4
+      },
+      {
+        "productID": 98764,
+        "quantity": 5
+      }
+    ],
+    "totalPrice": 299.99,
+    "delivery date": "3/30/2022"
+  },
+  {
+    "customer id": "NjcOMjOU8fs05HFgdHIC",
+    "cart": [
+      {
+        "productID": 98889,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 25.99,
+    "delivery date": "2/2/2022"
+  }
+]

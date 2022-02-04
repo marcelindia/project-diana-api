@@ -1,0 +1,54 @@
+[
+  {
+    "first name": "Aurelie",
+    "last name": "Gedeon",
+    "email": "gedeonemail@gmail.com",
+    "phone number": "(678) 999-8212",
+    "address": {
+      "address line 1": "411 Stay in Yo Lane",
+      "address line 2": "Apt. 202",
+      "city": "Boca Raton",
+      "state": "FL",
+      "zipcode": "33433"
+    }
+  },
+  {
+    "first name": "Diana",
+    "last name": "Marcelin",
+    "email": "marcelinemail@gmail.com",
+    "phone number": "(954) 555-6309",
+    "address": {
+      "address line 1": "876 Memory Lane",
+      "address line 2": "undefined",
+      "city": "Coral",
+      "state": "FL",
+      "zipcode": "33067"
+    }
+  },
+  {
+    "first name": "Ashley",
+    "last name": "Dennis",
+    "email": "dennisemail@gmail.com",
+    "phone number": "(305) 845-9673",
+    "address": {
+      "address line 1": "567 Balls in Your Court",
+      "address line 2": "St. 103",
+      "city": "Wilton Manors",
+      "state": "FL",
+      "zipcode": "33067"
+    }
+  },
+  {
+    "first name": "Rueben",
+    "last name": "Hales",
+    "email": "halesemail@gmail.com",
+    "phone number": "(407) 992-3647",
+    "address": {
+      "address line 1": "875 Be There or Be Square",
+      "address line 2": "undefined",
+      "city": "Winter Park",
+      "state": "FL",
+      "zipcode": "32792"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "Brand": "L'Oreal",
+    "name": "Mascara",
+    "description": "A universal mascara that will lift,lengthen, and volumize every lash",
+    "price": "$19.99",
+    "inventory": 900,
+    "SKU": 12233
+  },
+  {
+    "Brand": "Fenty",
+    "name": "Lipstick",
+    "description": "An ultra-slim lipstick with a long-wearing, created in a rainbow of weightless, color-intense shades designed to flatter all skin tones.",
+    "price": "$22.99",
+    "inventory": 1000,
+    "SKU": 54334
+  },
+  {
+    "Brand": "Sephora Collection",
+    "name": "Eye Liner",
+    "description": "An award-winning waterproof eyeliner pencil that glides on ultra-creamy and delivers intense, long-lasting color that won't budge.",
+    "price": "$15.99",
+    "inventory": 5000,
+    "SKU": 76543
+  },
+  {
+    "Brand": "Lilly Lashes",
+    "name": "False Lashes",
+    "description": "Natural-looking vegan lashes to softly add length, volume, and gentle curl for a subtle, elegant look.",
+    "price": "$25.99",
+    "inventory": 4000,
+    "SKU": 98889
+  },
+  {
+    "Brand": "Nars",
+    "name": "Foundation",
+    "description": "A foundation with a natural finish that quickly blurs and smooths while visibly improving skin's clarity over time.",
+    "price": "$45.99",
+    "inventory": 8000,
+    "SKU": 32110
+  },
+  {
+    "Brand": "Dior",
+    "name": "Concealer",
+    "description": "A 24-hour-wear, full-coverage, creamy concealer that corrects and hides under-eye circles, redness, blemishes, and imperfections.",
+    "price": "$35.99",
+    "inventory": 9000,
+    "SKU": 98764
+  }
+]
